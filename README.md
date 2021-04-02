@@ -1,5 +1,33 @@
 # dummy-online-store
+building an app that show that the enduser can interact with to use a online store
 
+## Tech used
+* express.js - router
+* sequelize/ mysql
+* node.js
+
+## installion
+make sure you have node.js already installed also you will need to install sequelize:
+
+```
+npm i sequelize
+```
+and mysql2
+
+```
+npm i mysql2
+```
+
+and dotenv
+
+```
+npm i dotenv
+```
+
+and express.js
+```
+npm i express
+```
 
 
 ## User Story
